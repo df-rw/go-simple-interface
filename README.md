@@ -160,8 +160,3 @@ Yes - language translations are normally done with a string table. The purpose
 of this example is to show a simple way to abstract multiple implementations
 of a thing behind a single interface. I couldn't find anything simple on the
 Internet, and I live just north of stupid, so this is why this exists.
-
-### Where's your makefile?
-
-Trying to keep things simple. The commands from [Runtime](#runtime) and
-[Testing](#testing) can be put into a Makefile, no problems.
